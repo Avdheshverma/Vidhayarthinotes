@@ -1,0 +1,22 @@
+.upload-form input, .upload-form button {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.upload-form button {
+  background: #005bea;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.upload-form button:hover {
+  background: #00c6fb;
+}
